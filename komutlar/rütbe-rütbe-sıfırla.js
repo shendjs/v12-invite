@@ -18,7 +18,7 @@ exports.conf = {
 };
 exports.help = {
   name: 'rütbe-sıfırla',
-  description: 'Logo Yaparsınız',
+  description: 'Shend',
   usage: 'm-logo <yazı>'
 };
 
