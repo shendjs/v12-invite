@@ -33,6 +33,6 @@ exports.conf = {
 };
 exports.help = {
   name: 'top',
-  description: 'Logo Yaparsınız',
+  description: 'Shend',
   usage: 'm-logo <yazı>'
 };
