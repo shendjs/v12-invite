@@ -36,6 +36,6 @@ exports.conf = {
 };
 exports.help = {
   name: 'rütbe-ekle',
-  description: 'Logo Yaparsınız',
+  description: 'Shend',
   usage: 'm-logo <yazı>'
 };
