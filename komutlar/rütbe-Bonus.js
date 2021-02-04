@@ -32,6 +32,6 @@ exports.conf = {
 };
 exports.help = {
   name: 'bonus-ekle',
-  description: 'Logo Yaparsınız',
+  description: 'Shend',
   usage: 'm-logo <yazı>'
 };
