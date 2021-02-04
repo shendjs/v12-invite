@@ -28,6 +28,6 @@ exports.conf = {
 };
 exports.help = {
   name: 'rütbeler',
-  description: 'Logo Yaparsınız',
+  description: 'Shend',
   usage: 'm-logo <yazı>'
 };
