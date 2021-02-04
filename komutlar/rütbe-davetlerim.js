@@ -22,6 +22,6 @@ exports.conf = {
 };
 exports.help = {
   name: 'davetlerim',
-  description: 'Logo Yaparsınız',
+  description: 'Shend',
   usage: 'm-logo <yazı>'
 };
